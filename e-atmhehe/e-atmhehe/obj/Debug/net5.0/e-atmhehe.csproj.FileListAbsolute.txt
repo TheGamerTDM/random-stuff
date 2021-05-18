@@ -1,0 +1,16 @@
+C:\Users\Omad\source\repos\e-atmhehe\e-atmhehe\bin\Debug\net5.0\e-atmhehe.exe
+C:\Users\Omad\source\repos\e-atmhehe\e-atmhehe\bin\Debug\net5.0\e-atmhehe.deps.json
+C:\Users\Omad\source\repos\e-atmhehe\e-atmhehe\bin\Debug\net5.0\e-atmhehe.runtimeconfig.json
+C:\Users\Omad\source\repos\e-atmhehe\e-atmhehe\bin\Debug\net5.0\e-atmhehe.runtimeconfig.dev.json
+C:\Users\Omad\source\repos\e-atmhehe\e-atmhehe\bin\Debug\net5.0\e-atmhehe.dll
+C:\Users\Omad\source\repos\e-atmhehe\e-atmhehe\bin\Debug\net5.0\ref\e-atmhehe.dll
+C:\Users\Omad\source\repos\e-atmhehe\e-atmhehe\bin\Debug\net5.0\e-atmhehe.pdb
+C:\Users\Omad\source\repos\e-atmhehe\e-atmhehe\obj\Debug\net5.0\e-atmhehe.csprojAssemblyReference.cache
+C:\Users\Omad\source\repos\e-atmhehe\e-atmhehe\obj\Debug\net5.0\e-atmhehe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omad\source\repos\e-atmhehe\e-atmhehe\obj\Debug\net5.0\e-atmhehe.AssemblyInfoInputs.cache
+C:\Users\Omad\source\repos\e-atmhehe\e-atmhehe\obj\Debug\net5.0\e-atmhehe.AssemblyInfo.cs
+C:\Users\Omad\source\repos\e-atmhehe\e-atmhehe\obj\Debug\net5.0\e-atmhehe.csproj.CoreCompileInputs.cache
+C:\Users\Omad\source\repos\e-atmhehe\e-atmhehe\obj\Debug\net5.0\e-atmhehe.dll
+C:\Users\Omad\source\repos\e-atmhehe\e-atmhehe\obj\Debug\net5.0\ref\e-atmhehe.dll
+C:\Users\Omad\source\repos\e-atmhehe\e-atmhehe\obj\Debug\net5.0\e-atmhehe.pdb
+C:\Users\Omad\source\repos\e-atmhehe\e-atmhehe\obj\Debug\net5.0\e-atmhehe.genruntimeconfig.cache
